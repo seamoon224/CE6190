@@ -1,0 +1,287 @@
+
+
+CLIP Model: ViT
+Dataset: refcoco / val / unc
+Overall IoU / mean IoU
+24.83 / 26.24
+
+CLIP Model: ViT
+Dataset: refcoco / testA / unc
+Overall IoU / mean IoU
+23.59 / 24.48
+
+CLIP Model: ViT
+Dataset: refcoco / testB / unc
+Overall IoU / mean IoU
+24.60 / 26.56
+
+ CLIP Model: ViT
+Dataset: refcoco+ / val / unc
+Overall IoU / mean IoU
+26.12 / 27.62
+
+ CLIP Model: ViT
+Dataset: refcoco+ / testA / unc
+Overall IoU / mean IoU
+24.92 / 25.88
+
+ CLIP Model: ViT
+Dataset: refcoco+ / testB / unc
+Overall IoU / mean IoU
+25.77 / 28.06
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd
+Overall IoU / mean IoU
+31.09 / 33.62
+
+
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd
+Overall IoU / mean IoU
+31.09 / 33.62
+
+ CLIP Model: ViT
+Dataset: refcocog / test / umd
+Overall IoU / mean IoU
+30.96 / 33.61
+
+ CLIP Model: ViT
+Dataset: refcocog / val / google
+Overall IoU / mean IoU
+30.77 / 33.69
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.0 / beta=1
+Overall IoU / mean IoU
+28.75 / 31.92
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.05 / beta=1
+Overall IoU / mean IoU
+28.78 / 31.96
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.1 / beta=1
+Overall IoU / mean IoU
+28.82 / 31.97
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.15 / beta=1
+Overall IoU / mean IoU
+28.81 / 31.98
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.2 / beta=1
+Overall IoU / mean IoU
+28.81 / 31.98
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.25 / beta=1
+Overall IoU / mean IoU
+28.92 / 32.02
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.3 / beta=1
+Overall IoU / mean IoU
+28.98 / 32.08
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.35 / beta=1
+Overall IoU / mean IoU
+29.02 / 32.06
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.4 / beta=1
+Overall IoU / mean IoU
+29.09 / 32.07
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.45 / beta=1
+Overall IoU / mean IoU
+29.24 / 32.19
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.5 / beta=1
+Overall IoU / mean IoU
+29.23 / 32.23
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.55 / beta=1
+Overall IoU / mean IoU
+29.40 / 32.36
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.6 / beta=1
+Overall IoU / mean IoU
+29.49 / 32.48
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.65 / beta=1
+Overall IoU / mean IoU
+29.60 / 32.62
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.7 / beta=1
+Overall IoU / mean IoU
+29.66 / 32.71
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.75 / beta=1
+Overall IoU / mean IoU
+29.79 / 32.74
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.8 / beta=1
+Overall IoU / mean IoU
+30.00 / 32.91
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=1
+Overall IoU / mean IoU
+30.22 / 33.17
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.9 / beta=1
+Overall IoU / mean IoU
+30.10 / 33.09
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.95 / beta=1
+Overall IoU / mean IoU
+29.23 / 32.12
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=1.0 / beta=1
+Overall IoU / mean IoU
+27.07 / 29.06
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.0
+Overall IoU / mean IoU
+27.96 / 29.75
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.05
+Overall IoU / mean IoU
+28.46 / 30.39
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.1
+Overall IoU / mean IoU
+28.97 / 31.05
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.15
+Overall IoU / mean IoU
+29.29 / 31.45
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.2
+Overall IoU / mean IoU
+29.57 / 31.85
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.25
+Overall IoU / mean IoU
+30.08 / 32.48
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.3
+Overall IoU / mean IoU
+30.33 / 32.79
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.35
+Overall IoU / mean IoU
+30.55 / 33.05
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.4
+Overall IoU / mean IoU
+30.84 / 33.44
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.45
+Overall IoU / mean IoU
+30.93 / 33.54
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.5
+Overall IoU / mean IoU
+31.09 / 33.62
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.55
+Overall IoU / mean IoU
+30.96 / 33.63
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.6
+Overall IoU / mean IoU
+30.87 / 33.60
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.65
+Overall IoU / mean IoU
+30.92 / 33.59
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.7
+Overall IoU / mean IoU
+30.71 / 33.45
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.75
+Overall IoU / mean IoU
+30.76 / 33.49
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.8
+Overall IoU / mean IoU
+30.59 / 33.35
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.85
+Overall IoU / mean IoU
+30.54 / 33.35
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.9
+Overall IoU / mean IoU
+30.41 / 33.28
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=0.95
+Overall IoU / mean IoU
+30.25 / 33.18
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.85 / beta=1.0
+Overall IoU / mean IoU
+30.22 / 33.17
+
+
+
+
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=1.0 / beta=0.0
+Overall IoU / mean IoU
+27.39 / 29.16
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=1.0 / beta=0.5
+Overall IoU / mean IoU
+27.64 / 29.61
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.0 / beta=0.5
+Overall IoU / mean IoU
+29.46 / 32.67
+
+ CLIP Model: ViT
+Dataset: refcocog / val / umd / alpha=0.0 / beta=0.0
+Overall IoU / mean IoU
+25.35 / 28.11

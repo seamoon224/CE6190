@@ -1,6 +1,6 @@
 # Zero-shot Referring Image Segmentation with Global-Local Context Features
 
-For repreduction, dataset and checkpoints can refer to:
+For reproduction, dataset and checkpoints can refer to:
 https://github.com/Seonghoon-Yu/Zero-shot-RIS/issues/5
 
 This repogitory store the code for implementing the Global-Local CLIP algorithm for zero-shot referring image segmentation.

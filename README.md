@@ -1,5 +1,7 @@
 # Zero-shot Referring Image Segmentation with Global-Local Context Features
 
+This directory provides a reproduction of the Zero-shot Referring Image Segmentation method described in the following paper. 
+
 For reproduction, dataset and checkpoints can refer to:
 https://github.com/Seonghoon-Yu/Zero-shot-RIS/issues/5
 
